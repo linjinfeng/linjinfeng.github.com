@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://linjinfeng.github.com/atom.xml" rel="self"/>
   <link href="http://linjinfeng.github.com/"/>
-  <updated>2012-12-12T18:59:45+08:00</updated>
+  <updated>2012-12-12T19:01:56+08:00</updated>
   <id>http://linjinfeng.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -19,7 +19,7 @@
     <updated>2012-12-12T12:14:00+08:00</updated>
     <id>http://linjinfeng.github.com/blog/2012/12/12/third</id>
     <content type="html"><![CDATA[<h1>
-    ThhhjhjhhjhhhhhhhThisThis is[ a new ](This is a new post and you will get it)post[ and y](This is a new post and you will get it)ou will get it post and you will get itThis is a new post and you will [get ](This is a new post and you will get it)itThis is a new This is a *new* post newand ![you](![]()) will get it and you will get itThis is a new   will get itThis is a new post and you will get itThis is a new post 
+    Thhhjhjhhjhhhhh[hhThi]http://www.qq.com sThis is[ a new ](This is a new post and you will [get it)]http://www.qq.com
 </h1>
 
 ]]></content>
